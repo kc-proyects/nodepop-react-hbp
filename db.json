@@ -1,0 +1,82 @@
+{
+    "adverts": [
+        {
+            "id": 1,
+            "img": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.zdnet.com%2Fa%2Fimg%2F2022%2F04%2F15%2F09ad146b-9cec-41c4-bd4c-9e492ddd36e8%2Fkeychron-k8-pro-1.jpg&f=1&nofb=1&ipt=da1024d07828582d722d7337bb51a95c217d212064619b3442dac726d90a5ad0&ipo=images",
+            "title": "Teclado mecánico Keychron K8",
+            "description": "Teclado mecánico inalámbrico Keychron K8 con switches rojos, compatible con Linux.",
+            "price": 100,
+            "type": "venta",
+            "tags": ["accesorios", "teclado", "mecánico", "Linux"]
+        },
+        {
+            "id": 2,
+            "img": "https://hackaday.com/wp-content/uploads/2019/07/Raspberry_Pi_4_Hero.jpg",
+            "title": "Busco Raspberry Pi 4",
+            "description": "Estoy buscando una Raspberry Pi 4 para proyectos de domótica y servidores caseros.",
+            "price": 80,
+            "type": "compra",
+            "tags": ["hardware", "miniPC", "Raspberry Pi", "Linux"]
+        },
+        {
+            "id": 3,
+            "img": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.serverwarehouse.co.uk%2Fsystem_files%2Fimages%2Fsystem_images%2Fcut%2Fdl380-16-front.jpg&f=1&nofb=1&ipt=22d7b16beee9e50bf04c3e18041176ce0ff759133599efb0b6b30b6fa8b6c7b1&ipo=images",
+            "title": "Servidor HP ProLiant DL380",
+            "description": "Servidor HP ProLiant DL380 con procesador Xeon, perfecto para virtualización con Linux.",
+            "price": 1200,
+            "type": "venta",
+            "tags": ["servidor", "hardware", "Linux"]
+        },
+        {
+            "id": 4,
+            "img": "https://www.info-computer.com/409751-medium_default/lenovo-thinkpad-x13-g1-core-i5-10210u-16-ghz-8-gb-256-nvme-win-11-pro.jpg",
+            "title": "Portátil Lenovo ThinkPad T14",
+            "description": "Lenovo ThinkPad T14 con procesador AMD Ryzen, ideal para desarrolladores y entusiastas de Linux.",
+            "price": 800,
+            "type": "venta",
+            "tags": ["tecnología", "portátil", "Linux", "ThinkPad"]
+        },
+        {
+            "id": 5,
+            "img": "https://thumb.pccomponentes.com/w-530-530/articles/34/346802/1429-philips-346p1crh-00-34-led-ultrawide-quad-hd-100hz-curvo-usb-c.jpg",
+            "title": "Monitor ultrawide 34”",
+            "description": "Monitor ultrawide de 34” con resolución 3440x1440, excelente para multitarea y desarrollo.",
+            "price": 500,
+            "type": "venta",
+            "tags": ["pantalla", "monitor", "ultrawide", "productividad"]
+        },
+        {
+            "id": 6,
+            "img": "http://www.kfish.org/linux/cartoons/images/pee-on-logo2.jpg",
+            "title": "Busco distribución Linux en USB",
+            "description": "Necesito una USB booteable con Ubuntu o Debian ya configurada y lista para instalar.",
+            "price": 20,
+            "type": "compra",
+            "tags": ["software", "Linux", "USB", "sistemas operativos"]
+        },
+        {
+            "id": 7,
+            "img": "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6420/6420371ld.jpg",
+            "title": "Cámara Canon EOS R5",
+            "description": "Cámara Canon EOS R5 con sensor full frame de 45MP, ideal para fotografía profesional y video en 8K.",
+            "price": 2500,
+            "type": "venta",
+            "tags": ["fotografía", "Canon", "cámara"]
+        },
+        {
+            "id": 8,
+            "img": "https://cdn.mammothbikes.com/product/Large/492772_04012024155620.jpg",
+            "title": "Bicicleta de montaña",
+            "description": "Bicicleta de montaña con cuadro de aluminio y suspensión delantera, perfecta para rutas exigentes.",
+            "price": 45000,
+            "type": "venta",
+            "tags": ["deporte", "bicicleta", "montaña"]
+        }
+    ],
+    "users": [
+        { "id": 1,
+        "username": "hector",
+        "name": "Héctor B.",
+        "password": "$2b$10$Xy4a37Jaq5f//eiN0FJS3uaruYypTxRqVXr7UdEVwjQ/HyB40Kzfu" }
+    ]    
+}
